@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/peso0517/typescript/issues"
   },
-  "homepage": "https://github.com/peso0517/typescript#readme"
+  "homepage": "https://github.com/peso0517/typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
 }
